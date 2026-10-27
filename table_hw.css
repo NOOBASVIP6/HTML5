@@ -1,0 +1,15 @@
+.table_hw_class{
+    width: 600px;
+    margin: auto;
+}
+table,
+th,
+td,
+tr{
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+td{
+    font-size: px;
+}
+
