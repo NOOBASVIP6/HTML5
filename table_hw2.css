@@ -1,0 +1,31 @@
+table{
+    border-collapse: separate;
+    border-spacing: 2px;
+    background-color: #d4d0c8;
+    border: 3px ridge #ece9d8;
+    font-family: "Times New Roman", Times, Georgia, serif;
+    text-align: center;
+}
+
+th, td{
+    border: 2px inset #ffffff;
+    padding: 4px 8px;
+    background-color: #d4d0c8;
+    color: #000000;
+}
+
+th{
+    font-weight: bold;
+}
+
+.bg-yellow{
+    background-color: #ffffcc !important;
+}
+
+.bg-blue{
+    background-color: #ccccff !important;
+}
+
+.bg-green{
+    background-color: #ccffcc !important;
+}
